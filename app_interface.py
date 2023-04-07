@@ -41,4 +41,4 @@ with gr.Blocks() as demo:
 
   submit_btn = gr.Button("Predict Customer Churn").style(full_width=True)       
 
-demo.launch(inbrowser=True, share=True)        
+demo.launch(inbrowser=True, share=False)        
