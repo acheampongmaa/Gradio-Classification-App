@@ -5,7 +5,7 @@ An application using Gradio for the Classifiaction Model Project (Customer Churn
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP4 | Embedding Customer Churn Model in Gradio|  [](/) | [](/) |
+| LP4 |Customer Churn Prediction Application with Gradio|  [Article](https://medium.com/@qacheampong/customer-churn-prediction-application-with-gradio-c2d444e6af0a/) | [](/) |
 
 
 ## Process Description
