@@ -5,7 +5,7 @@ An application using Gradio for the Classifiaction Model Project (Customer Churn
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP4 | Embedding Customer Churn Model in Gradio|  [](/) | [](/) |
+| LP4 |Customer Churn Prediction Application with Gradio|  [Article](https://medium.com/@qacheampong/customer-churn-prediction-application-with-gradio-c2d444e6af0a/) | [Churn Prediction App](https://huggingface.co/spaces/Queensly/MyGradioApp/) |
 
 
 ## Process Description
@@ -34,7 +34,6 @@ Then you can clone this repo. At the repo's root, use the code from below which 
 ## App Execution
 Execute the app using: python app.py This will create a local URL which you will copy and paste in your browser. 
 
-Local URL: http://127.0.0.1:7860
 
 ## App Interface Screenshot
 ![App_Interface](churn_interface.png)
