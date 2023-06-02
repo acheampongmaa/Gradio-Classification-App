@@ -36,7 +36,7 @@ Execute the app using: python app.py This will create a local URL which you will
 
 
 ## App Interface Screenshot
-![App_Interface](churn_interface.png)
+![App_Interface](./image/churn_interface.png)
 
 ## Author
 Queensly K. Acheampongmaa
